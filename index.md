@@ -2,25 +2,25 @@
 
 I should first see how to properly make this page with:
 
-- [https://guides.github.com/features/pages/]
-- [https://jekyllrb.com/]
+- [https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)
+- [https://jekyllrb.com/](https://jekyllrb.com/)
 
 ## So, what to say here?
 
 This is supposed to be a page about myself apparently. I may include some of these links:
 
-- [https://github.com/jgaffuri]
-- [https://gis.stackexchange.com/users/162/julien]
-- [https://www.linkedin.com/in/juliengaffuri/]
-- [https://observablehq.com/@jgaffuri]
-- [https://bl.ocks.org/jgaffuri]
-- [https://twitter.com/julgaf]
-- [https://www.instagram.com/jgaffuri/]
-- [https://www.strava.com/athletes/9025914]
-- [https://cn.ffcorientation.fr/cn/12346/]
-- [http://doma.luxoc.savana-hosting.cz/index.php?user=julien]
-- [https://itra.run/RunnerSpace/RaceResults/GAFFURI.Julien/72858]
-- [https://confluence.org/visitor.php?id=9846]
+- [Github](https://github.com/jgaffuri)
+- [GIS stackexchange](https://gis.stackexchange.com/users/162/julien)
+- [LinkedIn](https://www.linkedin.com/in/juliengaffuri/)
+- [ObservableHQ](https://observablehq.com/@jgaffuri)
+- [bl.ocks](https://bl.ocks.org/jgaffuri)
+- [Twitter](https://twitter.com/julgaf)
+- [Instagram](https://www.instagram.com/jgaffuri/)
+- [Strava](https://www.strava.com/athletes/9025914)
+- [Orienteering - France](https://cn.ffcorientation.fr/cn/12346/)
+- [Orienteering - library](http://doma.luxoc.savana-hosting.cz/index.php?user=julien)
+- [Trail running - ITRA](https://itra.run/RunnerSpace/RaceResults/GAFFURI.Julien/72858)
+- [Confluence points](https://confluence.org/visitor.php?id=9846)
 
 With a list of some stuff I wrote:
 
