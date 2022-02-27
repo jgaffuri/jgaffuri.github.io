@@ -7,8 +7,10 @@ I should first see how to use that with these pages:
 
 # Publications
 
-[doc/2004_ws.pdf]
-2005_WS_julien_gaffuri.pdf
+(doc/2004_ws.pdf)
+
+(doc/2005_WS_julien_gaffuri.pdf)
+
 2006_JFSMA_paper6_gaffuri.pdf
 2006_WS_ICA6Gaffuri.pdf
 2006_autocarto.pdf
