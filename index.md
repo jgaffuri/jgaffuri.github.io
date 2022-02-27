@@ -1,11 +1,28 @@
-## To see
+## Page under construction
 
-I should first see how to use that with these pages:
+I should first see how to properly make this page with:
 
 - https://guides.github.com/features/pages/
 - https://jekyllrb.com/
 
-## Publications
+## So, what to say here?
+
+This is supposed to be a page about myself apparently. I may include some of these links:
+
+- https://github.com/jgaffuri
+- https://gis.stackexchange.com/users/162/julien
+- https://www.linkedin.com/in/juliengaffuri/
+- https://observablehq.com/@jgaffuri
+- https://bl.ocks.org/jgaffuri
+- https://twitter.com/julgaf
+- https://www.instagram.com/jgaffuri/
+- https://www.strava.com/athletes/9025914
+- https://cn.ffcorientation.fr/cn/12346/
+- http://doma.luxoc.savana-hosting.cz/index.php?user=julien
+- https://itra.run/RunnerSpace/RaceResults/GAFFURI.Julien/72858
+- https://confluence.org/visitor.php?id=9846
+
+With a list of some stuff I wrote:
 
 - [2004_ws](doc/pub/2004_ws.pdf)
 - [2005_ws](doc/pub/2005_WS_julien_gaffuri.pdf)
