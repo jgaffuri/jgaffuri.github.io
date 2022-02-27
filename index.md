@@ -11,12 +11,12 @@ I should first see how to use that with these pages:
 
 [2005_ws](doc/2005_WS_julien_gaffuri.pdf)
 
-[](2006_JFSMA_paper6_gaffuri.pdf)
-[](2006_WS_ICA6Gaffuri.pdf)
-[](2006_autocarto.pdf)
-[](2007_GI_days_gaffuri.pdf)
-[](2007_icc_gaffuri.pdf)
-[](2007_icc_gaffuri_fr.pdf)
+[2006_JFSMA_paper6_gaffuri](2006_JFSMA_paper6_gaffuri.pdf)
+[2006_WS_ICA6Gaffuri](2006_WS_ICA6Gaffuri.pdf)
+[2006_autocarto](2006_autocarto.pdf)
+[2007_GI_days_gaffuri](2007_GI_days_gaffuri.pdf)
+[2007_icc_gaffuri](2007_icc_gaffuri.pdf)
+[2007_icc_gaffuri_fr](2007_icc_gaffuri_fr.pdf)
 [](2008_SDH.pdf)
 [](2008_WS_gaffuri.pdf)
 [](2009_ICITA.pdf)
