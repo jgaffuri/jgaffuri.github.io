@@ -15,7 +15,7 @@ This is supposed to be a page about myself apparently. I may include some of the
 - [ObservableHQ](https://observablehq.com/@jgaffuri)
 - [bl.ocks](https://bl.ocks.org/jgaffuri)
 - [Twitter](https://twitter.com/julgaf)
-- [Instagram](https://www.instagram.com/jgaffuri/)
+- [Instagram](https://www.instagram.com/jugaffuri/)
 - [Strava](https://www.strava.com/athletes/9025914)
 - [Orienteering - France](https://cn.ffcorientation.fr/cn/12346/)
 - [Orienteering - library](http://doma.luxoc.savana-hosting.cz/index.php?user=julien)
