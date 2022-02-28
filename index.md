@@ -12,14 +12,17 @@ This is supposed to be a page about myself apparently. I may include some of the
 - [LinkedIn](https://www.linkedin.com/in/juliengaffuri/)
 - [Twitter](https://twitter.com/julgaf)
 
+
 - [Github](https://github.com/jgaffuri)
 - [GIS stackexchange](https://gis.stackexchange.com/users/162/julien)
 - [ObservableHQ](https://observablehq.com/@jgaffuri)
 - [bl.ocks](https://bl.ocks.org/jgaffuri)
 
+
 - [Academia.edu](https://independent.academia.edu/JulienGaffuri))
 - [Google Scholar](https://scholar.google.com/citations?user=ieN8hngAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Julien-Gaffuri)
+
 
 - [Strava](https://www.strava.com/athletes/9025914)
 - [Orienteering - France](https://cn.ffcorientation.fr/cn/12346/)
