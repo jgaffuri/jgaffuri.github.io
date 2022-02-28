@@ -19,7 +19,7 @@ This is supposed to be a page about myself apparently. I may include some of the
 - [bl.ocks](https://bl.ocks.org/jgaffuri)
 
 
-- [Academia.edu](https://independent.academia.edu/JulienGaffuri))
+- [Academia.edu](https://independent.academia.edu/JulienGaffuri)
 - [Google Scholar](https://scholar.google.com/citations?user=ieN8hngAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Julien-Gaffuri)
 
