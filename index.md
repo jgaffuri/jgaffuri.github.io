@@ -12,14 +12,10 @@ This is supposed to be a page about myself apparently. I may include some of the
 [<img src="doc/icons/linkedin.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/juliengaffuri/)
 [<img src="doc/icons/twitter.png" alt="Twitter" width="40"/>](https://twitter.com/julgaf)
 [<img src="doc/icons/github.png" alt="Github" width="40"/>](https://github.com/jgaffuri)
+[<img src="doc/icons/gis_se.png" alt="GIS stackexchange" width="40"/>](https://gis.stackexchange.com/users/162/julien)
+[<img src="doc/icons/observablehq.png" alt="ObservableHQ" width="40"/>](https://observablehq.com/@jgaffuri)
+[<img src="doc/icons/academia.png" alt="Academia.edu" width="40"/>](https://independent.academia.edu/JulienGaffuri)
 
-
-- [GIS stackexchange](https://gis.stackexchange.com/users/162/julien)
-- [ObservableHQ](https://observablehq.com/@jgaffuri)
-- [bl.ocks](https://bl.ocks.org/jgaffuri)
-
-
-- [Academia.edu](https://independent.academia.edu/JulienGaffuri)
 - [Google Scholar](https://scholar.google.com/citations?user=ieN8hngAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Julien-Gaffuri)
 
