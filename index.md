@@ -10,12 +10,9 @@ I should first see how to properly make this page with:
 This is supposed to be a page about myself apparently. I may include some of these links:
 
 [<img src="doc/icons/linkedin.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/juliengaffuri/)
+[<img src="doc/icons/twitter.png" alt="Twitter" width="40"/>](https://twitter.com/julgaf)
+[<img src="doc/icons/github.png" alt="Github" width="40"/>](https://github.com/jgaffuri)
 
-
-
-[![LinkedIn](doc/icons/linkedin.png)](https://www.linkedin.com/in/juliengaffuri/)
-[![Twitter](doc/icons/twitter.png)](https://twitter.com/julgaf)
-[![Github](doc/icons/github.png)](https://github.com/jgaffuri)
 
 - [GIS stackexchange](https://gis.stackexchange.com/users/162/julien)
 - [ObservableHQ](https://observablehq.com/@jgaffuri)
