@@ -9,11 +9,10 @@ I should first see how to properly make this page with:
 
 This is supposed to be a page about myself apparently. I may include some of these links:
 
-- [LinkedIn](https://www.linkedin.com/in/juliengaffuri/)
-- [Twitter](https://twitter.com/julgaf)
+[![LinkedIn](doc/icons/linkedin.png)](https://www.linkedin.com/in/juliengaffuri/)
+[![Twitter](doc/icons/twitter.png)](https://twitter.com/julgaf)
+[![Github](doc/icons/github.png)](https://github.com/jgaffuri)
 
-
-- [Github](https://github.com/jgaffuri)
 - [GIS stackexchange](https://gis.stackexchange.com/users/162/julien)
 - [ObservableHQ](https://observablehq.com/@jgaffuri)
 - [bl.ocks](https://bl.ocks.org/jgaffuri)
