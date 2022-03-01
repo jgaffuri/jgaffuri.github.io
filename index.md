@@ -15,18 +15,14 @@ This is supposed to be a page about myself apparently. I may include some of the
 [<img src="doc/icons/gis_se.png" alt="GIS stackexchange" width="40"/>](https://gis.stackexchange.com/users/162/julien)
 [<img src="doc/icons/observablehq.png" alt="ObservableHQ" width="40"/>](https://observablehq.com/@jgaffuri)
 [<img src="doc/icons/academia.png" alt="Academia.edu" width="40"/>](https://independent.academia.edu/JulienGaffuri)
-
-- [Google Scholar](https://scholar.google.com/citations?user=ieN8hngAAAAJ)
-- [ResearchGate](https://www.researchgate.net/profile/Julien-Gaffuri)
-
-
-- [Strava](https://www.strava.com/athletes/9025914)
-- [Orienteering - France](https://cn.ffcorientation.fr/cn/12346/)
-- [Orienteering - library](http://doma.luxoc.savana-hosting.cz/index.php?user=julien)
-- [Trail running - ITRA](https://itra.run/RunnerSpace/RaceResults/GAFFURI.Julien/72858)
-- [Instagram](https://www.instagram.com/jugaffuri/)
-- [Confluence points](https://confluence.org/visitor.php?id=9846)
-
+[<img src="doc/icons/google_scholar.png" alt="Google Scholar" width="40"/>](https://scholar.google.com/citations?user=ieN8hngAAAAJ)
+[<img src="doc/icons/researchgate.png" alt="ResearchGate" width="40"/>](https://www.researchgate.net/profile/Julien-Gaffuri)
+[<img src="doc/icons/strava.png" alt="Strava" width="40"/>](https://www.strava.com/athletes/9025914)
+[<img src="doc/icons/orienteering.png" alt="Orienteering - France" width="40"/>](https://cn.ffcorientation.fr/cn/12346/)
+[<img src="doc/icons/doma.png" alt="Orienteering - library" width="40"/>](http://doma.luxoc.savana-hosting.cz/index.php?user=julien)
+[<img src="doc/icons/itra.png" alt="Trail running - ITRA" width="40"/>](https://itra.run/RunnerSpace/RaceResults/GAFFURI.Julien/72858)
+[<img src="doc/icons/instagram.png" alt="Instagram" width="40"/>](https://www.instagram.com/jugaffuri/)
+[<img src="doc/icons/confluence.png" alt="Confluence points" width="40"/>](https://confluence.org/visitor.php?id=9846)
 
 With a list of some stuff I wrote:
 
