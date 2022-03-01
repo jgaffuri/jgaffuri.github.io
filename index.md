@@ -9,7 +9,9 @@ I should first see how to properly make this page with:
 
 This is supposed to be a page about myself apparently. I may include some of these links:
 
-<img src="doc/icons/linkedin.png" alt="LinkedIn" width="30"/>
+[<img src="doc/icons/linkedin.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/juliengaffuri/)
+
+
 
 [![LinkedIn](doc/icons/linkedin.png)](https://www.linkedin.com/in/juliengaffuri/)
 [![Twitter](doc/icons/twitter.png)](https://twitter.com/julgaf)
