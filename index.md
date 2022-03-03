@@ -1,6 +1,8 @@
 GIS and cartography at [Eurostat](https://ec.europa.eu/eurostat/), geographical information, maps, orienteering, trail running, biking, nature, Europe, Luxembourg, Marseille, Haut-Doubs.
 
-<img src="doc/globe.jpg" alt="LinkedIn" width="300"/>
+<p align="center">
+<img src="doc/globe.jpg" alt="LinkedIn" width="100%"/>
+</p>
 
 [<img src="doc/icons/linkedin.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/juliengaffuri/)
 [<img src="doc/icons/twitter.png" alt="Twitter" width="40"/>](https://twitter.com/julgaf)
