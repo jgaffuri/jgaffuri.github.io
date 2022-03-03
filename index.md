@@ -10,10 +10,13 @@ GIS and cartography at [Eurostat](https://ec.europa.eu/eurostat/), geographical 
 [<img src="doc/icons/academia.png" alt="Academia.edu" width="40"/>](https://independent.academia.edu/JulienGaffuri)
 [<img src="doc/icons/google_scholar.png" alt="Google Scholar" width="40"/>](https://scholar.google.com/citations?user=ieN8hngAAAAJ)
 [<img src="doc/icons/researchgate.png" alt="ResearchGate" width="40"/>](https://www.researchgate.net/profile/Julien-Gaffuri)
+
+
 [<img src="doc/icons/strava.png" alt="Strava" width="40"/>](https://www.strava.com/athletes/9025914)
 [<img src="doc/icons/orienteering.png" alt="Orienteering - France" width="40"/>](https://cn.ffcorientation.fr/cn/12346/)
 [<img src="doc/icons/orienteering.png" alt="Orienteering - library" width="40"/>](http://doma.luxoc.savana-hosting.cz/index.php?user=julien)
 [<img src="doc/icons/helga.png" alt="Helga-O" width="40"/>](https://www.helga-o.com/webres/showrunner.php?name=Julien+GAFFURI)
 [<img src="doc/icons/itra.png" alt="Trail running - ITRA" width="40"/>](https://itra.run/RunnerSpace/RaceResults/GAFFURI.Julien/72858)
+[<img src="doc/icons/utmb.png" alt="Trail running - UTMB" width="40"/>](https://utmb.world/fr/runner/72858.julien.gaffuri)
 [<img src="doc/icons/instagram.png" alt="Instagram" width="40"/>](https://www.instagram.com/jugaffuri/)
 [<img src="doc/icons/confluence.png" alt="Confluence points" width="40"/>](https://confluence.org/visitor.php?id=9846)
