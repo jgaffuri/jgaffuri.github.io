@@ -14,7 +14,7 @@ GIS and cartography at [Eurostat](https://ec.europa.eu/eurostat/), geographical 
 [<img src="doc/icons/researchgate.png" alt="ResearchGate" width="40"/>](https://www.researchgate.net/profile/Julien-Gaffuri)
 [<img src="doc/icons/strava.png" alt="Strava" width="40"/>](https://www.strava.com/athletes/9025914)
 [<img src="doc/icons/orienteering.png" alt="Orienteering - France" width="40"/>](https://cn.ffcorientation.fr/cn/12346/)
-[<img src="doc/icons/doma.png" alt="Orienteering - library" width="30"/>](http://doma.luxoc.savana-hosting.cz/index.php?user=julien)
+[<img src="doc/icons/orienteering.png" alt="Orienteering - library" width="30"/>](http://doma.luxoc.savana-hosting.cz/index.php?user=julien)
 [<img src="doc/icons/itra.png" alt="Trail running - ITRA" width="40"/>](https://itra.run/RunnerSpace/RaceResults/GAFFURI.Julien/72858)
 [<img src="doc/icons/instagram.png" alt="Instagram" width="40"/>](https://www.instagram.com/jugaffuri/)
 [<img src="doc/icons/confluence.png" alt="Confluence points" width="40"/>](https://confluence.org/visitor.php?id=9846)
