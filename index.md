@@ -8,7 +8,7 @@ GIS and cartography at [Eurostat](https://ec.europa.eu/eurostat/). Previously at
 [<img src="doc/icons/observablehq.png" alt="ObservableHQ" width="40"/>](https://observablehq.com/@jgaffuri)
 [<img src="doc/icons/mastodon.png" alt="Mastodon" width="40"/>](https://mastodon.top/web/@julgaf)
 
-<a rel="me" href="https://mastodon.top/@julgaf">Mastodon</a>
+<a rel="me" href="https://mastodon.top/@julgaf"><img src="doc/icons/mastodon.png" alt="Mastodon" width="40"/></a>
 
 [<img src="doc/icons/twitter.png" alt="Twitter" width="40"/>](https://twitter.com/julgaf)
 [<img src="doc/icons/academia.png" alt="Academia.edu" width="40"/>](https://independent.academia.edu/JulienGaffuri)
