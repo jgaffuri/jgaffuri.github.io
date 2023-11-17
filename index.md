@@ -7,7 +7,7 @@ GIS and cartography at [Eurostat](https://ec.europa.eu/eurostat/). Previously at
 [<img src="doc/icons/gis_se.png" alt="GIS stackexchange" width="40"/>](https://gis.stackexchange.com/users/162/julien)
 [<img src="doc/icons/observablehq.png" alt="ObservableHQ" width="40"/>](https://observablehq.com/@jgaffuri)
 [<img src="doc/icons/gitlab.png" alt="GitLab" width="40"/>](https://gitlab.com/jgaffuri)
-[<img src="doc/icons/gitlab.png" alt="GitLab" width="40"/>]([https://gitlab.com/jgaffuri](https://bsky.app/profile/jgaffuri.bsky.social))
+[<img src="doc/icons/gitlab.png" alt="Bluesky" width="40"/>](https://bsky.app/profile/jgaffuri.bsky.social)
 <a rel="me" href="https://mapstodon.space/web/@julgaf"><img src="doc/icons/mastodon.png" alt="Mastodon" width="40"/></a>
 [<img src="doc/icons/twitter.png" alt="Twitter" width="40"/>](https://twitter.com/julgaf)
 [<img src="doc/icons/academia.png" alt="Academia.edu" width="40"/>](https://independent.academia.edu/JulienGaffuri)
