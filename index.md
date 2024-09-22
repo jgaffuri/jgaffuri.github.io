@@ -10,6 +10,8 @@ GIS and cartography at [Eurostat](https://ec.europa.eu/eurostat/). Previously at
 [<img src="doc/icons/bsky.png" alt="Bluesky" width="40"/>](https://bsky.app/profile/jgaffuri.bsky.social)
 <a rel="me" href="https://mapstodon.space/web/@julgaf"><img src="doc/icons/mastodon.png" alt="Mastodon" width="40"/></a>
 [<img src="doc/icons/twitter.png" alt="Twitter" width="40"/>](https://twitter.com/julgaf)
+[<img src="doc/icons/orcid.png" alt="Orcid" width="40"/>]([https://twitter.com/julgaf](https://orcid.org/0000-0003-3186-9246))
+[<img src="doc/icons/scopus.png" alt="Scopus" width="40"/>]([https://twitter.com/julgaf](https://www.scopus.com/authid/detail.uri?authorId=36141798700))
 [<img src="doc/icons/academia.png" alt="Academia.edu" width="40"/>](https://independent.academia.edu/JulienGaffuri)
 [<img src="doc/icons/google_scholar.png" alt="Google Scholar" width="40"/>](https://scholar.google.com/citations?user=ieN8hngAAAAJ)
 [<img src="doc/icons/researchgate.png" alt="ResearchGate" width="40"/>](https://www.researchgate.net/profile/Julien-Gaffuri)
